@@ -1,4 +1,3 @@
-// programmed by Ravi Prakash vickyravi17@gmail.com
 #include<stdio.h>
 #include<stdlib.h>
 #include<string.h>
